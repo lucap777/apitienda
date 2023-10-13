@@ -36,7 +36,6 @@ public class Fabricante  implements Serializable {
         this.id = id;
         this.nombre = nombre;
     }
-
     public Fabricante(Long id) {
         this.id = id;
     }
